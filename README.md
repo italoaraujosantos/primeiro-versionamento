@@ -1,2 +1,2 @@
 # primeiro-versionamento
-A primeira aula de portugol  com versionamento, curso Java Senai
+A primeira aula de portugol Studio Desktop com versionamento, curso Desenvolvedor Java SENAI.
