@@ -3,3 +3,7 @@ A primeira aula de portugol Studio Desktop com versionamento, curso Desenvolvedo
 
 A atividade será uma implementação em portugol
 
+## Inserindo texto pelo codespace
+
+Arquivo sendo modificado na nuvem
+
